@@ -1,5 +1,12 @@
 [
     {
+        "name": "98堂手机版",
+        "url": "^https?://sehuatang\\.net/",
+        "example": "https://sehuatang.net/forum.php?mod=viewthread&tid=1412314&extra=page%3D2&page=1&mobile=2",
+        "pageElement": "//div[@class=\"postlist n5-bbsnr\"]/div[not(position()=2 or position()=5)]",
+        "action": 1
+    }    
+    {
         "name": "ICONFINDER ",
         "enable": 0,
         "example": "https://www.iconfinder.com/search?q=Download",
